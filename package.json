@@ -1,0 +1,35 @@
+{
+  "name": "threejs-rectangle-mesh",
+  "version": "1.0.0",
+  "description": "A convenient top-left centric rectangle mesh. Perfect for orthographic cameras.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "loadandrunscripts": "^1.0.0",
+    "lodash": "^2.4.1",
+    "threejs-managed-view": "^2.1.1"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "threejs",
+    "rectangle",
+    "mesh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/threejs-rectangle-mesh.git"
+  },
+  "homepage": "https://github.com/bunnybones1/threejs-rectangle-mesh",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/threejs-rectangle-mesh/issues"
+  }
+}

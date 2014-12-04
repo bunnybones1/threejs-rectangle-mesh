@@ -1,0 +1,28 @@
+{
+  "name": "threejs-rectangle-mesh",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Tomasz Dysinski <oz@bunnybones.com>"
+  ],
+  "description": "A convenient top-left centric rectangle mesh. Perfect for orthographic cameras.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "threejs",
+    "rectangle",
+    "mesh"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "three.js": "*"
+  }
+}
